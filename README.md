@@ -1,4 +1,5 @@
-![banner](assets/vera_wang_runway.png)
+![banner](assets/Alexander_Wang.png)
+![banner](assets/alexander_wang.jpg)
 
 # iDesigner Competition - Fashion
 
