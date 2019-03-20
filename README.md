@@ -1,4 +1,5 @@
 ![banner](assets/Alexander_Wang.png)
+
 ![banner](assets/alexander_wang.jpg)
 
 # iDesigner Competition - Fashion
@@ -23,11 +24,10 @@ Submission Server Open | TBD|
 Submission Deadline|  TBD|
 Winners Announced| June 2019|
 
+Traiing data:
+ [Download training data!](https://drive.google.com/open?id=1DIoLZVCCSObPbHcTqGn2E44uJ8_vL9L2)
 ## Details
 
 
-
-![example](assets/example.jpg)
-
-For more details on iDesigner 2018, please see our Kaggle page.
+For more details on iDesigner 2019, please see our Kaggle page.
 
