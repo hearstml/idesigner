@@ -1,6 +1,4 @@
-![banner](assets/Alexander_Wang.png)
-
-![banner](assets/alexander_wang.jpg)
+![banner](assets/idesigner_2.png)
 
 # iDesigner Competition - Fashion
 
@@ -24,10 +22,9 @@ Submission Server Open | TBD|
 Submission Deadline|  TBD|
 Winners Announced| June 2019|
 
-Traiing data:
- [Download training data!](https://drive.google.com/open?id=1DIoLZVCCSObPbHcTqGn2E44uJ8_vL9L2)
 ## Details
-
+![banner](assets/idesigner_1.png)
+For this competition, we sample 50,000 runway images, including 50 fashion designers from past. The dataset embraces a variety of fashion items: shoes, bags, dress, jackets etc.
 
 For more details on iDesigner 2019, please see our Kaggle page.
 
