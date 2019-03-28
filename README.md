@@ -28,3 +28,5 @@ For this competition, we sample 50,000 runway images, including 50 fashion desig
 
 For more details on iDesigner 2019, please see our [Kaggle page](https://www.kaggle.com/c/idesigner).
 
+## About Hearst Magazine Media
+Hearst Magazine Media Inc. is the leading media company serving the fashion & luxury space, supported by print and digital brands such as Harper's BAZAAR, ELLE, Esquire and Marie Claire. Leveraging data from our 200M unique visitors, on-and-off site click stream data, and our brand advertising partners data, we're building a robust and disruptive capability to serve the fashion & luxury industry with insights to better build their businesses and grow market share.
