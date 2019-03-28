@@ -17,9 +17,9 @@ We are using Kaggle to host the leaderboard. Checkout the competition page here.
 ## Dates (TBD)
 |||
 |----|---------------|
-Data Released| April 2019|
-Submission Server Open | TBD|
-Submission Deadline|  TBD|
+Start Data (Data Released)| April 5, 2019|
+Submission Server Open | April 10, 2019|
+Submission Deadline|  May 31, 2019|
 Winners Announced| June 2019|
 
 ## Details
